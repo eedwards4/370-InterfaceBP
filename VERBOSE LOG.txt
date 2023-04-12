@@ -1,0 +1,16 @@
+V 1.0.0
+- HOLY SHIT WE DONE IT
+-- Added the following
+--- Hud elements
+---- Win message
+---- Lose message
+---- Game start message
+--- Boo collision logic
+--- Win/Lose conditions
+---- Press button to play, press different button to win (wow that's oRiGiNaL)
+--- Sped up boo movement as it felt too slow
+--- Added demo level
+---- Not default level
+--- Edited file structure to be more organized
+--- That was probably it I dunno I just want sleep at this point
+- *Dies*
